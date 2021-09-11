@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/phasmophobia-cheat-sheet/static/css/main.cfa12d20.chunk.css",
-    "main.js": "/phasmophobia-cheat-sheet/static/js/main.b3cdc642.chunk.js",
-    "main.js.map": "/phasmophobia-cheat-sheet/static/js/main.b3cdc642.chunk.js.map",
+    "main.js": "/phasmophobia-cheat-sheet/static/js/main.aa13efdf.chunk.js",
+    "main.js.map": "/phasmophobia-cheat-sheet/static/js/main.aa13efdf.chunk.js.map",
     "runtime-main.js": "/phasmophobia-cheat-sheet/static/js/runtime-main.b9d0cd24.js",
     "runtime-main.js.map": "/phasmophobia-cheat-sheet/static/js/runtime-main.b9d0cd24.js.map",
     "static/css/2.818011ed.chunk.css": "/phasmophobia-cheat-sheet/static/css/2.818011ed.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.dcf66d8f.chunk.js",
     "static/css/main.cfa12d20.chunk.css",
-    "static/js/main.b3cdc642.chunk.js"
+    "static/js/main.aa13efdf.chunk.js"
   ]
 }
