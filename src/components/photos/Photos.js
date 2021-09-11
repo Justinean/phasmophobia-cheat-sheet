@@ -3,7 +3,7 @@ import './photos.css';
 function Photos() {
     return (
         <div className="photos">
-            <h1>Photos</h1>
+            <h1>Photos:</h1>
             <div className="information">
                 <div className="points">
                     <h2>Points:</h2>

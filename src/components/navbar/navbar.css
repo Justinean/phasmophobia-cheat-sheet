@@ -63,7 +63,7 @@
     margin-top: 8px;
 }
 
-@media only screen and (max-width: 930px) {
+@media only screen and (max-width: 1025px) {
     .linkButton {
         display: block;
     }
@@ -90,19 +90,19 @@
 
 @media only screen and (max-width: 500px) {
     .navbar h1 {
-        font-size: 30px;
+        font-size: 25px;
     }
 }
 
 @media only screen and (max-width: 445px) {
     .navbar h1 {
-        font-size: 25px;
+        font-size: 20px;
     }
 }
 
 @media only screen and (max-width: 380px) {
     .navbar h1 {
-        font-size: 20px;
+        font-size: 15px;
     }
 }
 

@@ -32,7 +32,7 @@ function Navbar({ currentPage, handlePageChange }) {
 
     return (
         <div className="navbar">
-            <h1>Phasmophobia cheatsheet</h1>
+            <h1>Phasmophobia Reference Guide</h1>
             <button className="linkButton" onClick={showLinks}><p>_</p><p>_</p><p>_</p></button>
             <br />
             <div className="navbarLinks">

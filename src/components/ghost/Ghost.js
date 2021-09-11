@@ -1,6 +1,7 @@
 import ghostData from '../../ghostData.json';
 import { Form, Container, Col, Row } from 'react-bootstrap';
 import {useState} from 'react';
+import './ghost.css'
 
 function Ghost() {
     const [ghosts, setGhosts] = useState(ghostData)
