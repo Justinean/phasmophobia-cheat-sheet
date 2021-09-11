@@ -1,0 +1,17 @@
+.navlink {
+    color: #a7ffffbb;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.navlink:hover {
+    text-decoration: none;
+}
+
+.active:hover {
+    text-decoration: underline;
+}
+
+.active {
+    text-decoration: underline;
+}
