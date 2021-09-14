@@ -2,11 +2,15 @@ html {
     height: 100%;
 }
 
+h1, p, h2, h3, li {
+    color: #ffffffc4
+}
+
 body {
     width: 100%;
     height: 100%;
     min-width: 300px;
-    background-color: #463b4d55;
+    background-color: #222026;
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

@@ -3,7 +3,7 @@
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-color: #050507c4;
+    background-color: #18171a;
     height: 15%;
     width: 100%;
     padding-top: 0px;
@@ -17,7 +17,8 @@
     padding-left: 26px;
     padding-right: 5px;
     padding-bottom: 2px;
-    background-color: #a7ffffbb;
+    background-color: #004949;
+    color: white;
     width: fit-content;
     text-align: right;
 }
